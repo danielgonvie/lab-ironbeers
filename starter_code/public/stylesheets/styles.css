@@ -60,3 +60,16 @@ h4{
 .cervecita {
     height: 60vh
 }
+.beers-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.beer img{
+    height: 100px;
+}
+.beer {
+    height: 40vh;
+    margin: 10px;
+    
+}
