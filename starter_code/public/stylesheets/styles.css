@@ -39,3 +39,24 @@ h4{
     text-decoration: none;
     color: #F7F9F9;
 }
+
+.mainPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 80vh;
+    
+}
+
+.rolf{
+    width: 17vw;
+}
+
+.royce{
+    width: 25vw;
+}
+
+.cervecita {
+    height: 60vh
+}

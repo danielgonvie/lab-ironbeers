@@ -20,8 +20,8 @@ app.get('/beers', (req, res, next) => {
   res.render('beers');
 });
 
-app.get('/randomB', (req, res, next) => {
-  res.render('randomB');
+app.get('/random-beers', (req, res, next) => {
+  res.render('random-beers');
 });
 
 
